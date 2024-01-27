@@ -33,6 +33,7 @@ Additionally, there are associated CSS files for styling (`style.css`) and JavaS
 The script.js file contains functions for form validation and user interaction. Here are some key functions:
 
 formCheck(): Validates the form fields and displays error messages if necessary. If the form is successfully submitted, it displays a thank you message.
+
 check(): Checks if the user has submitted the form on any page and displays user information if available.
 
 ## Getting Started
