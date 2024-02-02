@@ -29,18 +29,3 @@ DDL commands include the creation of tables, indexes, sequences, and views neces
 ### DCL Commands
 Role-based access control is implemented with roles like admin_CAR and manager_car, granting specific permissions to different roles.
 
-## Getting Started
-Clone the Repository:
-
-### bash
-Copy code
-git clone https://github.com/your-username/car-rental-system.git
-
-### Set Up Database:
-
-Execute the DDL commands in your Oracle database.
-Ensure necessary roles and permissions are granted.
-Run the Application:
-
-Follow instructions in your application's codebase to execute and interact with the system.
-Additional Notes
