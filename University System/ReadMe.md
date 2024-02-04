@@ -2,7 +2,7 @@
 
 # User Credentials to Access the System
 
-## Admin Credentials
+### Admin Credentials
 
 | User Id | Password |
 |---------|----------|
@@ -10,7 +10,7 @@
 | 2       | 2009     |
 ----------------------
 
-## Teacher Credentials
+### Teacher Credentials
 
 | User Id | Password |
 |---------|----------|
@@ -18,7 +18,7 @@
 | 34567   | 1234     |
 ----------------------
 
-## Student Credentials
+### Student Credentials
 
 | User Id | Password |
 |---------|----------|
