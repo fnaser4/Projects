@@ -23,3 +23,6 @@ Mokhtabri is an iOS app designed to help users find medical labs (or hospitals) 
 - **Booking history**
 - **View labs / tests** (including Search, Sort, Filter)
 - **Home/Explore Screen** 
+
+|fateman376@gmail.com
+|123456789
