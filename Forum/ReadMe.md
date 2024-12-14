@@ -19,10 +19,10 @@ Fikra is a dynamic forum platform designed to enhance community interaction and 
 
 ## 📸 Project Visuals
 
-![Homepage Screenshot](static/images/homepage.png)
+![Homepage Screenshot](static/MainPage.png)
 *The main page showcasing recent posts and interactive features.*
 
-![Messaging Screenshot](static/images/messaging.png)
+![Messaging Screenshot](static/PrivateMessages.png)
 *Real-time messaging interface for seamless communication.*
 
 ## 🚀 Getting Started
