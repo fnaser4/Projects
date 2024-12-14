@@ -30,13 +30,12 @@ Fikra is a dynamic forum platform designed to enhance community interaction and 
 1. **Clone the Repository** 
 
 2. **Navigate to the Directory**
-
-3. **Set Up the Database**: Create the SQLite file and tables using the provided schema.
-4. **Run the Application**:  
+   
+3. **Run the Application**:  
    ```bash
    go run main.go
    ```
-5. **Access the Platform**: Open your browser and navigate to `http://localhost:8080`.
+4. **Access the Platform**: Open your browser and navigate to `http://localhost:8080`.
 
 ## ✨ How to Use
 
