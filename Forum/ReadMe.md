@@ -8,6 +8,7 @@ Fikra is a dynamic forum platform designed to enhance community interaction and 
 - **✍️ Post Creation and Management**: Share your thoughts, view all posts, and like or dislike content.
 - **💬 Commenting System**: Engage with posts through comments and reactions.
 - **💌 Real-Time Messaging**: Chat with other users instantly through a seamless interface.
+- **👤 Profile**: Users can view their profile details.
 
 ## 🛠️ Technologies Used
 
